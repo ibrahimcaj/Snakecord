@@ -1,5 +1,6 @@
 # Snakecord
-A simple and fun way to play **Snake** inside of **Discord**! This **Discord** bot was made with Repl.it, using Discord's **new** message components!
+A simple and fun way to play **Snake** inside of **Discord**! This **Discord** bot was made with Replit, using Discord's **new** message components!
+This project was made for the **2021 Replit Discord Bot** task.
 
 Invite __Snakecord__ to your Discord server [here](https://discord.com/api/oauth2/authorize?client_id=847451240984215553&permissions=0&scope=bot%20applications.commands).
 
@@ -11,7 +12,7 @@ This bot has a lot of different features, including __automatic__ movement, poin
 
 ## Run the code yourself
 ### Repl.it:
-- Fork the [GitHub Repository](https://github.com/vanishedvan/Snakecord) inside of Repl.it. ([Home](https://replit.com/~) -> Plus Button)
+- Fork the [GitHub Repository](https://github.com/vanishedvan/Snakecord) inside of Replit. ([Home](https://replit.com/~) -> Plus Button)
 - Open the **Secrets** window on the left.
 - Add the following secrets:
   - `production.stable` as the key, and your bot's token as the value.
@@ -19,7 +20,7 @@ This bot has a lot of different features, including __automatic__ movement, poin
 - Go to the **Shell**.
 - Run `bash start.sh` to install __Node 15.3.0__ and to start the bot. (Run `bash beta.start.sh` if you want to start the beta bot.)
 
-*Note: Using the Repl.it shell and executing the bash scripts is **required** because Repl.it uses Node 12.16.1 instead of Node 15.3.0.*
+*Note: Using the Repl.it shell and executing the bash scripts is **required** because Replit uses Node 12.16.1 instead of Node 15.3.0.*
 
 ### Local:
 - Install [Node 15.3.0](https://nodejs.org/download/release/v15.3.0/).
