@@ -16,14 +16,6 @@
                 "beta": "847452639474089994"
             }
         },
-        "tokens": {
-            "production": {
-                "stable": ""
-            },
-            "development": {
-                "beta": ""
-            }
-        },
         "activity": {
             "name": "snake on Discord.",
             "options": {
