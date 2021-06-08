@@ -1,0 +1,56 @@
+{
+    "client": {
+        "names": {
+            "production": {
+                "stable": "Snakecord"
+            },
+            "development": {
+                "beta": "Snakecord Beta"
+            }
+        },
+        "ids": {
+            "production": {
+                "stable": "847451240984215553"
+            },
+            "development": {
+                "beta": "847452639474089994"
+            }
+        },
+        "tokens": {
+            "production": {
+                "stable": ""
+            },
+            "development": {
+                "beta": ""
+            }
+        },
+        "activity": {
+            "name": "snake on Discord.",
+            "options": {
+                "type": "PLAYING"
+            }
+        },
+        "options": {
+            "fetchAllMembers": true,
+            "disableMentions": "all"
+        }
+    },
+	"server": {
+		"port": 3000,
+		"version": "1.0.0",
+		"url": "https://snakecord.vanishedvan.repl.co"
+	},
+    "separator": "—————————————————————————————————————————————————————————————————",
+    "options": [
+        null,
+        "SUB_COMMAND",
+        "SUB_COMMAND_GROUP",
+        "STRING",
+        "INTEGER",
+        "BOOLEAN",
+        "USER",
+        "CHANNEL",
+        "ROLE",
+        "MENTIONABLE"
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "colors": {
+        "statuses": {
+            "dnd": "#f04747",
+            "online": "#43b581",
+            "idle": "#faa61a",
+            "streaming": "#593695",
+            "invisible": "#747f8d"
+        },
+        "default": "#00c8ab",
+        "blue": "#007bff",
+        "green": "#85c95f",
+        "red": "#ff4a4a",
+        "cyan": "#17a2b8",
+        "yellow": "#ffb06c",
+        "blurple": "#7289da",
+        "greyple": "#99aab5",
+        "black": "#000000",
+        "white": "#ffffff",
+        "dark": "#343a40",
+        "grey": "#6c757d",
+        "embed": "#2f3136"
+    },
+	"game": {
+		"seed": 12345,
+		"region": {
+			"x": {
+				"from": 4,
+				"to": 26
+			},
+			"y": {
+				"from": 4,
+				"to": 26
+			}
+		},
+		"colors": {
+			"body": [255, 255, 255, 255],
+			"point": [255, 190, 0, 255],
+			"classic": {
+				"body": [41, 43, 27, 255],
+				"point": [41, 43, 27, 255]
+			}
+		},
+		"backgrounds": [
+			"classic",
+			"temple",
+			"cyberpunk"
+		],
+		"emojis": {
+			"blank": {
+				"id": "851554808670191636",
+				"name": "SnakecordBlank"
+			},
+			"up": {
+				"id": "850733319884111883",
+				"name": "SnakecordUp"
+			},
+			"down": {
+				"id": "850733319989887039",
+				"name": "SnakecordDown"
+			},
+			"right": {
+				"id": "850733319653818369",
+				"name": "SnakecordRight"
+			},
+			"left": {
+				"id": "850733320069447751",
+				"name": "SnakecordLeft"
+			},
+			"arrows": {
+				"up": {
+					"id": "850733319808614450",
+					"name": "SnakecordArrowUp"
+				},
+				"down": {
+					"id": "850733319838236692",
+					"name": "SnakecordArrowDown"
+				},
+				"right": {
+					"id": "850733320131706900",
+					"name": "SnakecordArrowRight"
+				},
+				"left": {
+					"id": "850733319690649610",
+					"name": "SnakecordArrowLeft"
+				}
+			},
+			"stop": {
+				"id": "850735843140304906",
+				"name": "SnakecordCross"
+			}
+		},
+		"default": {
+			"head": {
+				"x": 7,
+				"y": 5
+			},
+			"canvasSize": 31,
+			"previewCanvasSize": 178,
+			"bodyLength": 1
+		}
+	}
+}

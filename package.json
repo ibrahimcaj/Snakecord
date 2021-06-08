@@ -1,0 +1,35 @@
+{
+    "name": "snakecord",
+    "version": "2.0.0",
+    "description": "Snakecord Discord bot. Made by vanishedvan",
+    "main": "index.js",
+    "scripts": {
+        "production stable": "node src/index.js production regular",
+        "development beta": "node src/index.js development beta"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vanishedvan/snakecord.git"
+    },
+    "author": "vanishedvan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vanishedvan/snakecord/issues"
+    },
+    "homepage": "https://github.com/vanishedvan/snakecord#readme",
+    "dependencies": {
+        "@sapphire/async-queue": "^1.1.2",
+        "axios": "^0.21.1",
+        "bluebird": "^3.7.2",
+        "chalk": "^4.1.1",
+        "discord.js": "github:monbrey/discord.js#droppybois",
+        "express": "^4.17.1",
+        "jimp": "^0.16.1",
+        "moment": "^2.29.1",
+        "mongoose": "^5.12.5",
+        "node": "^15.14.0",
+        "resize-image-data": "^0.3.0",
+        "save-pixels": "^2.3.4",
+        "zeros": "^1.0.0"
+    }
+}
