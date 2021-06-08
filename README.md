@@ -11,7 +11,7 @@ This bot has a lot of different features, including __automatic__ movement, poin
 
 ## Run the code yourself
 **Repl.it:**
-- Fork the [GitHub Repository](https://github.com/vanishedvan/Snakecord) inside of Repl.it. ([Home](https://replit.com/~) -> Plus Button -> )
+- Fork the [GitHub Repository](https://github.com/vanishedvan/Snakecord) inside of Repl.it. ([Home](https://replit.com/~) -> Plus Button)
 - Open the **Secrets** window on the left.
 - Add the following secrets:
   - `production.stable` as the key, and your bot's token as the value.
