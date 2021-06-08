@@ -41,7 +41,7 @@ global.processClient = clientArgument;
 var clientObject = {
 	name: configuration.client.names[modeArgument][clientArgument],
 	id: configuration.client.ids[modeArgument][clientArgument],
-	token: process.env[`${modeArgument}.${clientArgument}`]
+	token: process.env[`${modeArgument.toUpperCase()}_${clientArgument.toUpperCase()}`]
 }
 
 if (clientObject.name) { // Checks whether the chosen client is valid.
