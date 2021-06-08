@@ -54,7 +54,7 @@ app.get('/:userID/:objectVersion', (request, response) => {
 var startServer = () => {
 	return new Promise((resolve, reject) => {
 		app.listen(configuration.server.port, () => {
-			console.log(chalk`{green [SERVER]} Image server is up on port {underline ${configuration.server.port}}`);
+			console.log(chalk`{green [SERVER]} Image server is up on port {underline ${configuration.server.port}}.\n`);
 
 			resolve(app);
 		});
