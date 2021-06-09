@@ -24,7 +24,7 @@ This bot has a lot of different features, including __automatic__ movement, poin
 
 ### Local:
 - Install [Node 15.3.0](https://nodejs.org/download/release/v15.3.0/).
-- Fork the [GitHub Repository](https://github.com/vanishedvan/Snakecord) to your machine.
+- Clone the [GitHub Repository](https://github.com/vanishedvan/Snakecord) to your machine.
 - Add the following environment variables:
   - `PRODUCTION_STABLE` as the key, and your bot's token as the value.
   - `DEVELOPMENT_BETA` as the key, and your bot's token as the value. (Only add this variable if you want a separate development bot.)
