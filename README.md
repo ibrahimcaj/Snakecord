@@ -18,7 +18,7 @@ This bot has a lot of different features, including __automatic__ movement, poin
   - `PRODUCTION_STABLE` as the key, and your bot's token as the value.
   - `DEVELOPMENT_BETA` as the key, and your bot's token as the value. (Only add this secret if you want a separate development bot.)
 - Go to the **Shell**.
-- Run `bash start.sh` to install __Node 15.3.0__ and to start the bot. (Run `bash beta.start.sh` if you want to start the beta bot.)
+- Run `bash start.sh` to install __Node 15.3.0__ and to start the bot. (Run `bash beta.start.sh` if you want to start the separate development bot.)
 
 *Note: Using the Repl.it shell and executing the bash scripts is **required** because Replit uses Node 12.16.1 instead of Node 15.3.0.*
 
@@ -27,8 +27,8 @@ This bot has a lot of different features, including __automatic__ movement, poin
 - Fork the [GitHub Repository](https://github.com/vanishedvan/Snakecord) to your machine.
 - Add the following environment variables:
   - `PRODUCTION_STABLE` as the key, and your bot's token as the value.
-  - `DEVELOPMENT_BETA` as the key, and your bot's token as the value. (Only add this secret if you want a separate development bot.)
-- Run `bash start.sh` to install __Node 15.3.0__ and to start the bot. (Run `bash beta.start.sh` if you want to start the beta bot.)
+  - `DEVELOPMENT_BETA` as the key, and your bot's token as the value. (Only add this variable if you want a separate development bot.)
+- Run `node src/index.js production stable` to install __Node 15.3.0__ and to start the bot. (Run `node src/index.js development beta` if you want to start the development bot.)
 
 ## License
 - This repository is licensed under the [MIT license](https://github.com/vanishedvan/Snakecord/blob/master/LICENSE).
