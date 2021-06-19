@@ -1,6 +1,6 @@
 # Snakecord
 A simple and fun way to play **Snake** inside of **Discord**! This **Discord** bot was made with Replit, using Discord's **new** message components!
-This project was made for the **2021 Replit Discord Bot** task.
+This project was made for the **2021 Replit Discord Bot** task. (2nd place winner!)
 
 Invite __Snakecord__ to your Discord server [here](https://discord.com/api/oauth2/authorize?client_id=847451240984215553&permissions=0&scope=bot%20applications.commands).
 
