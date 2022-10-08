@@ -1,4 +1,4 @@
-# Snakecord
+# ⚠️ Snakecord (archived*)
 A simple and fun way to play **Snake** inside of **Discord**! This **Discord** bot was made with Replit, using Discord's **new** message components!
 This project was made for the **2021 Replit Discord Bot** task. (🥈 2nd place winner!)
 
@@ -32,3 +32,5 @@ This bot has a lot of different features, including __automatic__ movement, poin
 
 ## License
 - This repository is licensed under the [MIT license](https://github.com/vanishedvan/Snakecord/blob/master/LICENSE).
+
+* This project has been originally made only for the Repl.it task, and since I couldn't maintain it for a long time now, I've decided to officially archive this project.
