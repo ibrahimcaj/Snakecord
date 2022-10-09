@@ -5,7 +5,7 @@ This project was made for the **2021 Replit Discord Bot** task. (🥈 2nd place 
 Invite __Snakecord__ to your Discord server [here](https://discord.com/api/oauth2/authorize?client_id=847451240984215553&permissions=0&scope=bot%20applications.commands).
 
 ## Features
-This bot has a lot of different features, including __automatic__ movement, points system and __backgrounds__!
+This bot has a lot of different features, including __automatic__ movement, points system and __backgrounds__! Cool Stuff!
 
 ![Screenshot](https://i.imgur.com/oshLfiW.png)
 &nbsp;
